@@ -1,0 +1,56 @@
+html {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+  .card{
+    width: 320px;
+    margin: auto ;
+  }
+  .foto{
+    width:320px ;
+  }
+.card2{
+    padding:30px 15px 30px 15px ;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    width: 290px;
+    background: white;
+}
+  .text{
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 3px;
+    color: #d5a585;
+    margin: 0;
+   
+   }
+.ціна{
+font-size: 20px;
+font-family: 'Source Sans Pro', sans-serif;
+color:rgb(225, 69, 120) ;
+
+}
+.text2{
+    font-size: 12px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: rgb(30, 28, 28);
+    margin: 0;
+    margin-bottom: 14px;
+   
+}
+.botom{
+    font-size: 20px;
+    margin: 0;
+    color: white;
+    background: rgb(255, 193, 7);
+    text-decoration: none;
+    padding: 0px 10px 0px 10px;
+    text-transform: capitalize;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
